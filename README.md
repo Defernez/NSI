@@ -6,3 +6,5 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 **1** Premier sujet : https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/Python
 <br>
 Nous avons vu ensemble le chapitre zéro qui porte sur la programmation.
+<br><br><br>
+<i>Prochain theme -> Les données et le Cloud</i>
