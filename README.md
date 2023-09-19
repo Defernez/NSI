@@ -1,6 +1,7 @@
 # SNT 2023 2024
 <mark>Cours et activités de snt</mark>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
+https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid143713/snt-bac-2021.html
 
 **1** Premier sujet : https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/Python
