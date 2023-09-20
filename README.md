@@ -16,5 +16,6 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter.ipynb
 <br><br><br>
 <i>Prochain theme -> Les données et le Cloud</i><br>
-<h1 style="color:#FFFF00;"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></h1>
+<br>
+<font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 
