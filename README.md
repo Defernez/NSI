@@ -18,4 +18,5 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_
 <i>Prochain theme -> Les données et le Cloud</i><br>
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
+<br>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud.ipynb
 
