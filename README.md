@@ -12,6 +12,8 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 (12/9)Nous avons débuté ensemble un TP écrit pour savoir convertir des nombres binaires <br>
 (13/9)Nous avons regardé ensemble comment fonctionne GITHUB et Jupyter notebook <br>
 (20/9)Nous avons commencé le chapitre 1 et vous avez eu une fiche de révision <br>
+
+<img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 <b><mark>Nous alons maintenant terminer notre premier TD Jupyter notebook après une IE de 10 minutes </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr pour la séance du 26 septembre </b></mark><br>
 <b><mark>VOIR DANS PRONOTE POUR RENDRE VOTRE EXPOSE SUR PAPIER LE 27 SEPTEMBRE </b></mark><br>
