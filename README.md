@@ -8,7 +8,7 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 <br>
 ----
 <br>
-![img](https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180)
+
 (6/9)Nous avons vu ensemble le chapitre zéro qui porte sur la programmation.<br>
 (12/9)Nous avons débuté ensemble un TP écrit pour savoir convertir des nombres binaires <br>
 (13/9)Nous avons regardé ensemble comment fonctionne GITHUB et Jupyter notebook <br>
