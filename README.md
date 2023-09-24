@@ -5,7 +5,7 @@ https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 <br>
 Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid143713/snt-bac-2021.html
 <br>
-![img](![img](https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180))
+![img](https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180)
 
 (6/9)Nous avons vu ensemble le chapitre zéro qui porte sur la programmation.<br>
 (12/9)Nous avons débuté ensemble un TP écrit pour savoir convertir des nombres binaires <br>
