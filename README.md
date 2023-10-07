@@ -9,7 +9,7 @@ https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 Séance du 10 octobre :
 ```
 <b><mark>Nous allons maintenant terminer notre premier TD Jupyter notebook DERNIERE SEANCE </b></mark><br>
-<b><mark>Le travail est à déposer sur travail.nsi.free.fr pour la séance du 4 octobre </b></mark><br>
+<b><mark>Le travail est à déposer sur travail.nsi.free.fr pour la séance du 10 octobre </b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter.ipynb
 
 <br>
