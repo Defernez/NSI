@@ -30,7 +30,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLe
 <i>Prochain theme -> Les données et le Cloud</i><br>
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
-<br> INTERNET
+<br> [INTERNET](https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Internet.ipynb)
 
 <br>
 Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid143713/snt-bac-2021.html
