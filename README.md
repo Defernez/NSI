@@ -1,4 +1,6 @@
 # SNT 2023 2024
+<h1>/!\ le DS arrive mercredi 15 novembre sur Python chap 1</h1>
+https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
 https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
@@ -12,7 +14,6 @@ Séance du 7 novembre :
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud.ipynb
 <br>
-
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
