@@ -1,5 +1,7 @@
 <h1>SNT</h1>
-Participation, note à la fin du 1er trimestre : http://travail.nsi.free.fr/snt/participation.html
+Participation, note à la fin de la 1ere période : http://travail.nsi.free.fr/snt/participation.html
+
+Participation, note à la fin du 1er trimestre : http://travail.nsi.free.fr/snt/participation2.html
 
 Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid143713/snt-bac-2021.html
 
