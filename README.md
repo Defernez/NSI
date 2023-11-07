@@ -8,7 +8,7 @@ https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 <br><b>DM des vacances à rendre le 7 novembre</b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br>
 ```md
-Séance du 7 novembre :
+Séance du 8 novembre :
 ```
 <b><mark>Second TD Jupyter notebook </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
