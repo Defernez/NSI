@@ -11,6 +11,7 @@ https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 Séance du 15 novembre, dernière séance ! :
 ```
 <br><h1>DS</h1>
+<img src="https://amiga68k.com/wp-content/uploads/2022/05/A500_ws.png" />
 <b><mark>Second TD Jupyter notebook </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud.ipynb
