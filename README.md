@@ -8,8 +8,9 @@ https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 <br><b>DM des vacances à rendre le 7 novembre</b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br>
 ```md
-Séance du 8 novembre, dernière séance ! :
+Séance du 15 novembre, dernière séance ! :
 ```
+<br><h1>DS</h1>
 <b><mark>Second TD Jupyter notebook </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud.ipynb
@@ -23,8 +24,8 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLe
 (20/9)Nous avons commencé le chapitre 1 et vous avez eu une fiche de révision <br>
 (26/9, 27/09 et 4/10 )Nous avons continué le chapitre 1 et vous avez eu votre première IE <br>
 (10/10 et 11/10 )Nous avons continué le chapitre 1 et le chapitre 2 sur les données <br>
-18/10 Vous avez tous terminés le chapitre 1.
-7/10 Nous avons continué le chapitre 2
+18/10 Vous avez tous terminés le chapitre 1. <br>
+7/11 et 8/11 Nous avons continué le chapitre 2 <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
