@@ -1,14 +1,14 @@
 # SNT 2023 2024
-<h1>/!\ le DS arrive mercredi 15 novembre sur Python chap 1</h1>
+<h1>/!\ Pas cours de snt le mercredi 22</h1>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
 https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
 
-<br><b>DM des vacances à rendre le 7 novembre</b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
+
 <br>
 ```md
-Séance du 15 novembre, dernière séance ! :
+Séance du 21 novembre, dernière séance ! :
 ```
 <br><h1>DS</h1>
 <img src="https://amiga68k.com/wp-content/uploads/2022/05/A500_ws.png" />
@@ -27,10 +27,11 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLe
 (10/10 et 11/10 )Nous avons continué le chapitre 1 et le chapitre 2 sur les données <br>
 18/10 Vous avez tous terminés le chapitre 1. <br>
 7/11 et 8/11 Nous avons continué le chapitre 2 <br>
+15/11 DS sur Python <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
-
+<br><b>le DM des vacances à rendre le 7 novembre, c'était </b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 
 <i>Prochain theme -> INTERNET</i><br>
 <br>
