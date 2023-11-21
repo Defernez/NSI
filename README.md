@@ -3,15 +3,15 @@
 
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
-https://github.com/Defernez/NSI/blob/main/Comment_deposer_mon_TP_TD.pdf <br>
+https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Internet.ipynb <br>
 
 
 <br>
 ```md
-Séance du 21 novembre, dernière séance ! :
+Séance du 23 novembre, C'est le WEB !
 ```
 
-<b><mark>Second TD Jupyter notebook </b></mark><br>
+<b><mark>TD Jupyter notebook: Internet </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud.ipynb
 <br>
@@ -27,6 +27,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLe
 (18/10) Vous avez tous terminés le chapitre 1. <br>
 (7/11 et 8/11) Nous avons continué le chapitre 2 <br>
 (15/11) DS sur Python <br>
+(21/11) Nous avons continué le chapitre 2 <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
@@ -34,7 +35,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLe
 <i>Prochain theme -> INTERNET</i><br>
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
-<br> [INTERNET](https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Internet.ipynb)
+<br> 
 
 <i>`et après INTERNET, c'est le WEB</i><br>
 
