@@ -1,5 +1,5 @@
 # SNT 2023 2024
-<h1>/!\ Pas cours de snt le mercredi 22</h1>
+<h1>/!\ jeudi 23 novembre projet WEB en salle A314</h1>
 
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
