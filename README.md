@@ -48,3 +48,7 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 
 <br><b>le DM des vacances à rendre le 7 novembre, c'était </b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br> correction du chapitre 1 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
+<br><br><br><br><br><br>
+
+
+![img](https://bergson.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/7/2021/01/NSI-et-autres-sp%C3%A9.jpg)
