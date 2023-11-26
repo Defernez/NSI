@@ -8,7 +8,7 @@
 
 <br>
 ```md
-Séance du 23 novembre, C'est le WEB !
+Séance du 29 novembre, nouveau Thème: Internet !
 ```
 
 <b><mark>TD Jupyter notebook: Internet </b></mark><br>
@@ -28,11 +28,12 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (7/11 et 8/11) Nous avons continué le chapitre 2 <br>
 (15/11) DS sur Python <br>
 (21/11) Nous avons continué le chapitre 2 <br>
+(23/11) Nous avons passé 2 heures sur notre projet WEB <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
 
-<i>Prochain theme -> INTERNET</i><br>
+<i>Prochain theme -> WEB</i><br>
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 <br> 
