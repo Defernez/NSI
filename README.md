@@ -49,6 +49,7 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 
 <br><b>le DM des vacances à rendre le 7 novembre, c'était </b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br> correction du chapitre 1 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
+<br> correction du chapitre 2 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud_correction.ipynb
 <br><br><br><br><br><br>
 
 
