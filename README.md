@@ -1,5 +1,5 @@
-# SNT 2023 2024
-<h1>/!\ jeudi 23 novembre projet WEB en salle A314</h1>
+/# SNT 2023 2024)
+<h1>/!\ 13 decembre IE sur les données </h1>
 
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -8,7 +8,7 @@
 
 <br>
 ```md
-Séance du 29 novembre, nouveau Thème: Internet !
+Séance du 6 decembre, nouveau Thème: Internet !
 ```
 
 <b><mark>TD Jupyter notebook: Internet </b></mark><br>
@@ -29,6 +29,9 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (15/11) DS sur Python <br>
 (21/11) Nous avons continué le chapitre 2 <br>
 (23/11) Nous avons passé 2 heures sur notre projet WEB <br>
+(28/11) 2 heures sur le projet WEB <br>
+(29/11) Fin du chapitre 2 <br>
+(5/12) Début du chapitre 3: internet !
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
