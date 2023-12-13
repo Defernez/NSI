@@ -1,5 +1,5 @@
 /# SNT 2023 2024)
-<h1>/!\ 13 decembre IE sur les données </h1>
+<h1>/!\ 19 decembre Finir Chapitre 3 </h1>
 
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -8,7 +8,7 @@
 
 <br>
 ```md
-Séance du 6 decembre, nouveau Thème: Internet !
+Séance du 19 decembre, si vous avez fini le chap3, vous pouvez continuer votre site web
 ```
 
 <b><mark>TD Jupyter notebook: Internet </b></mark><br>
@@ -31,7 +31,8 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (23/11) Nous avons passé 2 heures sur notre projet WEB <br>
 (28/11) 2 heures sur le projet WEB <br>
 (29/11) Fin du chapitre 2 <br>
-(5/12 et 6/12) Début du chapitre 3: internet !
+(5/12 et 6/12) Début du chapitre 3: internet ! <br>
+(13/12) IE sur les données 
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
