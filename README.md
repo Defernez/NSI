@@ -1,6 +1,7 @@
 # SNT 2023 2024
-<h1>/!\ 20 Chapitre 4: Le WEB </h1>
-
+<img src = "https://i0.wp.com/magicconception.com/wp-content/uploads/2017/10/site-web-creation-magic-conception653.png?fit=653%2C414&ssl=1" width = "200" />
+<h1>20 decembre Chapitre 4: Le WEB </h1>
+<img src = "http://soudesecoles38530.fr/wp-content/uploads/2015/12/Noel-NY.jpg" width = "100" />
 <img src = "https://i0.wp.com/magicconception.com/wp-content/uploads/2017/10/site-web-creation-magic-conception653.png?fit=653%2C414&ssl=1" width = "200" />
  
 <h1><mark>Cours et activités de snt</mark></h1>
