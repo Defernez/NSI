@@ -44,7 +44,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 <br> 
 
-<i>`et après INTERNET, c'est le WEB</i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Chapitre4_WEB.ipynb
+<i>`Le TD sur le WEB est à faire après vos sites</i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Chapitre4_WEB.ipynb
 
 <br>
 Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid143713/snt-bac-2021.html
