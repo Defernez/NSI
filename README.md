@@ -1,5 +1,5 @@
 /# SNT 2023 2024)
-<h1>/!\ 19 decembre Finir Chapitre 3 </h1>
+<h1>/!\ 20 Chapitre 4: Le WEB </h1>
 
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -33,6 +33,8 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (29/11) Fin du chapitre 2 <br>
 (5/12 et 6/12) Début du chapitre 3: internet ! <br>
 (13/12) IE sur les données 
+(19/12) Internet, plus vos sites web 
+(20/12) Vos sites web 
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
