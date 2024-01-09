@@ -42,7 +42,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
 
-<i>Prochain theme -> WEB</i><br>
+<i>Prochain theme -> Les reseaux sociaux </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_SNT_Les_reseaux_sociaux.ipynb
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 <br> 
