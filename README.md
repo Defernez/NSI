@@ -12,6 +12,7 @@
 ```
 Séance du 10 janvier: petit déjeuner de la rentrée et travail sur vos sites WEB
 Attention, le DS arrive sur HTML et le WEB ainsi que vos présentations orales au CDI
+le mercredi24 janvier ou le mardi 30 janvier
 ```
 <br><br><br>
 <b><mark>TD Jupyter notebook: WEB </b></mark><br>
