@@ -1,5 +1,5 @@
 # SNT 2023 2024
-<img src = "http://soudesecoles38530.fr/wp-content/uploads/2015/12/Noel-NY.jpg" width = "100" />
+
 <h1>10 Janvier Chapitre 4: Le WEB </h1>
 
  
