@@ -6,7 +6,7 @@
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
 
-<img src = "https://cdn.futura-sciences.com/sources/images/Clic2Load/julien/les_meilleurs_logiciels_de_creation_de_site_web/logiciels.jpg" width = "100" />
+<img src = "https://cdn.futura-sciences.com/sources/images/Clic2Load/julien/les_meilleurs_logiciels_de_creation_de_site_web/logiciels.jpg" width = "300" />
 
 <br>
 ```
