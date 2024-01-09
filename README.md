@@ -1,8 +1,7 @@
 # SNT 2023 2024
 <img src = "http://soudesecoles38530.fr/wp-content/uploads/2015/12/Noel-NY.jpg" width = "100" />
-<h1>20 decembre Chapitre 4: Le WEB </h1>
+<h1>10 Janvier Chapitre 4: Le WEB </h1>
 
-<img src = "https://i0.wp.com/magicconception.com/wp-content/uploads/2017/10/site-web-creation-magic-conception653.png?fit=653%2C414&ssl=1" width = "200" />
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -11,7 +10,8 @@
 
 <br>
 ```md
-Séance du 19 decembre, si vous avez fini le chap3, vous pouvez continuer votre site web
+Séance du 10 janvier: petit déjeuner de la rentrée et travail sur vos sites WEB
+Attention, le DS arrive sur HTML et le WEB ainsi que vos présentations orales au CDI
 ```
 
 <b><mark>TD Jupyter notebook: Internet </b></mark><br>
