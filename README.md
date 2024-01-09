@@ -9,7 +9,7 @@
 
 
 <br>
-```md
+```
 Séance du 10 janvier: petit déjeuner de la rentrée et travail sur vos sites WEB
 Attention, le DS arrive sur HTML et le WEB ainsi que vos présentations orales au CDI
 ```
