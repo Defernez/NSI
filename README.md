@@ -13,7 +13,7 @@
 Séance du 10 janvier: petit déjeuner de la rentrée et travail sur vos sites WEB
 Attention, le DS arrive sur HTML et le WEB ainsi que vos présentations orales au CDI
 ```
-
+<br><br><br>
 <b><mark>TD Jupyter notebook: Internet </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Internet.ipynb <br>
