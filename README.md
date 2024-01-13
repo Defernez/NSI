@@ -2,6 +2,8 @@
 
 <h1>10 Janvier Chapitre 4: Le WEB </h1>
 
+# Mercredi 24 janvier, présenation oral au CDI
+## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -10,9 +12,9 @@
 
 <br>
 ```
-Séance du 10 janvier: petit déjeuner de la rentrée et travail sur vos sites WEB
+Séance du 16 janvier: Cours et travail sur vos sites WEB
 Attention, le DS arrive sur HTML et le WEB ainsi que vos présentations orales au CDI
-le mercredi24 janvier ou le mardi 30 janvier
+le mercredi 24 janvier ou le mardi 30 janvier
 ```
 <br><br><br>
 <b><mark>TD Jupyter notebook: WEB </b></mark><br>
