@@ -2,6 +2,8 @@
 
 <h1>10 Janvier Chapitre 4: Le WEB </h1>
 
+http://travail.nsi.free.fr/snt/depotsites/index.html
+
 # Mercredi 24 janvier, présenation oral au CDI
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
  
