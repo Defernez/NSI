@@ -2,7 +2,9 @@
 
 <h1>16 et 17 Janvier Chapitre 4: Le WEB </h1>
 <b><i>Mettez en ligne vos sites web ICI :</i></b>
-http://travail.nsi.free.fr/snt/depotsites/index.html
+http://travail.nsi.free.fr/snt/depotsites/index.html <br>
+<b><i>Sites "vides" à votre disposition et à compléter :</i></b>
+https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
 # Mercredi 24 janvier, présenation oral au CDI
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
