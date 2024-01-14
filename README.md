@@ -1,7 +1,7 @@
 # SNT 2023 2024
 
 <h1>10 Janvier Chapitre 4: Le WEB </h1>
-<b><i></i></b>Mettez en ligne vos sites web ICI :</b></i>
+<b><i></i></b>Mettez en ligne vos sites web ICI :</i></b>
 http://travail.nsi.free.fr/snt/depotsites/index.html
 
 # Mercredi 24 janvier, présenation oral au CDI
