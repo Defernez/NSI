@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aventure Web</title>
+    <style>
+        /* Début du CSS */
+
+        /* Dégradé de bleu à rose pour le fond de la page */
+        body {
+            background: linear-gradient(to right, #4169E1, #FF69B4);
+            margin: 0;
+            padding: 0;
+            font-family: 'Courier New', monospace;
+            color: #fff; /* Couleur du texte */
+            text-align: center;
+        }
+
+        /* En-tête avec une bordure rose et texte blanc */
+        header {
+            background-color: #FF69B4; /* Couleur rose pour l'en-tête */
+            color: #fff; /* Texte blanc */
+            padding: 15px; /* Espace intérieur de l'en-tête */
+            border-bottom: 5px solid #4169E1; /* Bordure bleue en bas de l'en-tête */
+        }
+
+        /* Sections avec une bordure et un fond transparent */
+        section {
+            margin: 40px; /* Espace autour de chaque section */
+            padding: 30px; /* Espace intérieur de chaque section */
+            border: 2px dashed #FF69B4; /* Bordure rose en pointillés */
+            border-radius: 15px; /* Coins arrondis */
+            background: rgba(255, 255, 255, 0.2); /* Fond transparent */
+            transition: transform 0.3s ease-in-out; /* Effet de transition pour le zoom */
+        }
+
+        /* Effet zoom au survol de la souris */
+        section:hover {
+            transform: scale(1.05); /* Zoom 5% au survol */
+        }
+
+        /* Limiter le zoom sur les écrans plus petits */
+        @media (max-width: 768px) {
+            section:hover {
+                transform: none; /* Aucun zoom sur les écrans plus petits */
+            }
+        }
+
+        /* Fin du CSS */
+    </style>
+</head>
+<body>
+
+    <!-- En-tête de la page -->
+    <header>
+        <h1>Aventure Web</h1>
+    </header>
+
+    <!-- Première Section -->
+    <section>
+        <h2>Exploration du Cyberespace</h2>
+        <p>Plongez dans le monde infini du cyberespace. Découvrez les mystères du web et apprenez comment créer votre propre présence en ligne.</p>
+        <img src="https://www.publicdomainpictures.net/pictures/30000/t2/dark-web-background.jpg" alt="Fond Cyberespace">
+        <p><a href="https://www.w3schools.com/html/" target="_blank">Commencez votre exploration</a></p>
+    </section>
+
+    <!-- Deuxième Section -->
+    <section>
+        <h2>Conception Artistique du Web</h2>
+        <p>Le web est un canvas infini pour votre créativité. Apprenez à concevoir des pages web artistiques et expressives qui captivent les visiteurs.</p>
+        <img src="https://www.publicdomainpictures.net/pictures/320000/t2/artistic-web-design.jpg" alt="Conception Artistique Web">
+        <p><a href="https://www.w3schools.com/css/" target="_blank">Explorez le CSS artistique</a></p>
+    </section>
+
+</body>
+</html>
+

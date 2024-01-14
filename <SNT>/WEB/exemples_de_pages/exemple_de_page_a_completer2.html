@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction à la Création de Pages Web</title>
+    <style>
+        /* Début du CSS */
+
+        /* Dégradé violet à rose pour le fond de la page */
+        body {
+            background: linear-gradient(to bottom, #800080, #FF69B4);
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        /* Cadre rose avec texte blanc pour le titre */
+        h1 {
+            background-color: #FF69B4; /* Couleur rose pour le cadre */
+            color: #fff; /* Texte blanc */
+            padding: 15px; /* Espace intérieur du cadre */
+            text-align: center;
+        }
+
+        /* Sections avec effet de bordure pour les paragraphes */
+        section {
+            margin: 20px; /* Espace autour de chaque section */
+            padding: 20px; /* Espace intérieur de chaque section */
+            border: 4px dashed #FF69B4; /* Bordure rose en pointillés */
+            border-radius: 15px; /* Coins arrondis */
+            transition: transform 0.3s ease-in-out; /* Effet de transition pour le zoom */
+        }
+
+        /* Effet zoom au survol de la souris */
+        section:hover {
+            transform: scale(1.05); /* Zoom 5% au survol */
+        }
+
+        /* Limiter le zoom sur les écrans plus petits */
+        @media (max-width: 768px) {
+            section:hover {
+                transform: none; /* Aucun zoom sur les écrans plus petits */
+            }
+        }
+
+        /* Fin du CSS */
+    </style>
+</head>
+<body>
+
+    <!-- Titre de la page -->
+    <h1>Introduction à la Création de Pages Web</h1>
+
+    <!-- Première Section -->
+    <section>
+        <h2>Notions de Base</h2>
+        <p>Les pages web sont créées en utilisant un langage appelé HTML (Hypertext Markup Language). HTML permet de structurer le contenu d'une page en utilisant des balises.</p>
+        <img src="https://www.publicdomainpictures.net/pictures/30000/t2/web-design.jpg" alt="Design Web">
+        <p><a href="https://www.w3schools.com/html/" target="_blank">En savoir plus sur HTML</a></p>
+    </section>
+
+    <!-- Deuxième Section -->
+    <section>
+        <h2>Création d'une Page Simple</h2>
+        <p>Pour créer une page web simple, il vous suffit d'un éditeur de texte et de quelques balises HTML de base. Un exemple de balise est &lt;p&gt; pour les paragraphes.</p>
+        <img src="https://www.publicdomainpictures.net/pictures/320000/t2/web-development.jpg" alt="Développement Web">
+        <p><a href="https://www.w3schools.com/html/html_basic.asp" target="_blank">Commencez avec HTML</a></p>
+    </section>
+
+</body>
+</html>
+

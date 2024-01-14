@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'Apprentissage HTML</title>
+    <style>
+        /* Début du CSS */
+
+        /* Dégradé bleu ciel à gris pour le fond de la page */
+        body {
+            background: linear-gradient(to bottom, #87CEEB, #808080);
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Cadre bleu avec texte blanc pour le titre */
+        h1 {
+            background-color: #0074cc; /* Couleur bleue pour le cadre */
+            color: #fff; /* Texte blanc */
+            padding: 10px; /* Espace intérieur du cadre */
+            text-align: center;
+        }
+
+        /* Sections avec effet zoom pour les paragraphes */
+        section {
+            margin: 20px; /* Espace autour de chaque section */
+            padding: 20px; /* Espace intérieur de chaque section */
+            border: 2px solid #0074cc; /* Bordure bleue */
+            border-radius: 10px; /* Coins arrondis */
+            transition: transform 0.3s ease-in-out; /* Effet de transition pour le zoom */
+        }
+
+        /* Effet zoom au survol de la souris */
+        section:hover {
+            transform: scale(1.05); /* Zoom 5% au survol */
+        }
+
+        /* Limiter le zoom sur les écrans plus petits (ajouté) */
+        @media (max-width: 768px) {
+            section:hover {
+                transform: none; /* Aucun zoom sur les écrans plus petits */
+            }
+        }
+
+        /* Fin du CSS */
+    </style>
+</head>
+<body>
+
+    <!-- Titre de la page -->
+    <h1>Page d'Apprentissage HTML</h1>
+
+    <!-- Premier Chapitre -->
+    <section>
+        <h2>Chapitre 1: Titre du Chapitre</h2>
+        <p>MODIFIER : Ajoutez votre texte ici pour le premier chapitre.</p>
+        <img src="https://www.publicdomainpictures.net/pictures/270000/t2/programmer-typing-silhouette-co.jpg" alt="Logo HTML">
+        <p><a href="https://www.youtube.com/watch?v=GqD6AiaRo3U" target="_blank">Lien vers la vidéo</a></p>
+    </section>
+
+    <!-- Deuxième Chapitre -->
+    <section>
+        <h2>Chapitre 2: Titre du Deuxième Chapitre</h2>
+        <p>MODIFIER : Ajoutez votre texte ici pour le deuxième chapitre.</p>
+        <img src="https://www.publicdomainpictures.net/pictures/270000/t2/programmer-typing-silhouette-co.jpg" alt="Logo HTML">
+        <p><a href="https://www.youtube.com/watch?v=GqD6AiaRo3U" target="_blank">Lien vers la vidéo</a></p>
+    </section>
+
+</body>
+</html>
+
