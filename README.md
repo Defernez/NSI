@@ -1,6 +1,6 @@
 # SNT 2023 2024
 
-<h1>10 Janvier Chapitre 4: Le WEB </h1>
+<h1>16 et 17 Janvier Chapitre 4: Le WEB </h1>
 <b><i>Mettez en ligne vos sites web ICI :</i></b>
 http://travail.nsi.free.fr/snt/depotsites/index.html
 
