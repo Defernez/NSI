@@ -8,6 +8,7 @@ https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
 # Mercredi 24 janvier, présenation oral au CDI
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
+## DS le 31 janvier sur internet et le web
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
