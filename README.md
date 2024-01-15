@@ -8,6 +8,7 @@ https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
 # Mercredi 24 janvier, présenation oral au CDI
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
+à revoir: <a "href: https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Fiche_de_revision_sur_Internet.pdf">internet</a> avec ça : <a href: "https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_r_303_251vision_sur_le_WEB.pdf">WEB</a> et ça : <a href: "https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_revision_SNT__le_HTML.pdf">HTML</a>
 ## DS le 31 janvier sur internet et le web
  
 <h1><mark>Cours et activités de snt</mark></h1>
