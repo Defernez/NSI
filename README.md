@@ -6,9 +6,12 @@ http://travail.nsi.free.fr/snt/depotsites/index.html <br>
 <b><i>Sites "vides" à votre disposition et à compléter :</i></b>
 https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
-# Mercredi 24 janvier, présenation oral au CDI
+# Mercredi 24 janvier, on reporte la présentation oral au CDI, donc Rendez-vous salle A314 pour mettre vos sites en lignes.
+# Mardi 30 janvier, présenation oral au CDI
+
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
-## DS le 31 janvier sur internet et le web
+# Mercredi 31 janvier, salle A317 denière séance avant le DS.
+## DS le 7 Février sur internet et le web
 à revoir: https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Fiche_de_revision_sur_Internet.pdf avec ça : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_r_303_251vision_sur_le_WEB.pdf et ça : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_revision_SNT__le_HTML.pdf"
 
  
