@@ -6,7 +6,7 @@ http://travail.nsi.free.fr/snt/depotsites/index.html <br>
 <b><i>Sites "vides" à votre disposition et à compléter :</i></b>
 https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
-# Mardi 30 janvier, présenation oral au CDI
+# Mardi 30 janvier, présentation oral au CDI
 
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
 # Mercredi 31 janvier, salle A317 denière séance avant le DS.
