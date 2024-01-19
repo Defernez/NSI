@@ -1,6 +1,6 @@
 # SNT 2023 2024
 
-<h1>Mercredi 24 janvier, on reporte la présentation oral au CDI, donc Rendez-vous salle A314 pour mettre vos sites en lignes </h1>
+<h1>Mercredi 24 janvier, on reporte la présentation oral au CDI, donc Rendez-vous salle A317 pour mettre vos sites en lignes </h1>
 <b><i>Mettez en ligne vos sites web ICI :</i></b>
 http://travail.nsi.free.fr/snt/depotsites/index.html <br>
 <b><i>Sites "vides" à votre disposition et à compléter :</i></b>
