@@ -1,12 +1,12 @@
 # SNT 2023 2024
 
-<h1>Mercredi 24 janvier, on reporte la présentation oral au CDI, donc Rendez-vous salle A317 pour mettre vos sites en lignes </h1>
+# Mardi 30 janvier, présentation oral au CDI
 <b><i>Mettez en ligne vos sites web ICI :</i></b>
 http://travail.nsi.free.fr/snt/depotsites/index.html <br>
 <b><i>Sites "vides" à votre disposition et à compléter :</i></b>
 https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
-# Mardi 30 janvier, présentation oral au CDI
+
 
 ## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
 # Mercredi 31 janvier, salle A317 denière séance avant le DS.
@@ -51,7 +51,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (19/12) Internet, plus vos sites web 
 (20/12) Vos sites web 
 (10/01) Petit dej spécial préparation des sites web
-(16/01 et 17/01) Vos sites web 
+(16/01 et 17/01 et aussi le 24/01) Mise en ligne de vos sites web et préparation de l'oral
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
