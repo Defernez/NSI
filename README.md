@@ -21,9 +21,7 @@ https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
 <br>
 ```
-Séance du 16 janvier: Cours et travail sur vos sites WEB
-Attention, le DS arrive sur HTML et le WEB ainsi que vos présentations orales au CDI
-le mercredi 24 janvier ou le mardi 30 janvier
+Attention, le DS arrive sur HTML et le WEB 
 ```
 <br><br><br>
 <b><mark>TD Jupyter notebook: WEB </b></mark><br>
