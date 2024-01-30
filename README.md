@@ -47,6 +47,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (20/12) Vos sites web 
 (10/01) Petit dej spécial préparation des sites web
 (16/01 et 17/01 et aussi le 24/01) Mise en ligne de vos sites web et préparation de l'oral
+(30/01) Oral au CDI
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
