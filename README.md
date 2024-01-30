@@ -1,10 +1,7 @@
 # SNT 2023 2024
 
-# Mardi 30 janvier, présentation oral au CDI
-<b><i>Mettez en ligne vos sites web ICI :</i></b>
-http://travail.nsi.free.fr/snt/depotsites/index.html <br>
-<b><i>Sites "vides" à votre disposition et à compléter :</i></b>
-https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
+# Mercredi 31 janvier, dernière séance avant le DS
+
 
 
 
@@ -67,6 +64,11 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 +++
 
 <img src="https://amiga68k.com/wp-content/uploads/2022/05/A500_ws.png" />
+
+<b><i>Vos sites web ICI :</i></b>
+http://travail.nsi.free.fr/snt/depotsites/index.html <br>
+<b><i>Sites "vides" à votre disposition et à compléter :</i></b>
+https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
 <br><b>le DM des vacances à rendre le 7 novembre, c'était </b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br> correction du chapitre 1 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
