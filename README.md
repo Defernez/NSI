@@ -1,15 +1,11 @@
 # SNT 2023 2024
 
-# Mercredi 31 janvier, dernière séance avant le DS
 
-
-
-
-## si vous êtes absent(e) vous passerez sans votre groupe en rattrapage
-# Mercredi 31 janvier, salle A317 dernière séance avant le DS.
 ## DS le 7 Février sur internet et le web
 à revoir: https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Fiche_de_revision_sur_Internet.pdf avec ça : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_r_303_251vision_sur_le_WEB.pdf et ça : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_revision_SNT__le_HTML.pdf"
 
+## DNS sur les moteurs de recherche
+https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -48,6 +44,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (10/01) Petit dej spécial préparation des sites web
 (16/01 et 17/01 et aussi le 24/01) Mise en ligne de vos sites web et préparation de l'oral
 (30/01) Oral au CDI
+(31/01) Prof abs
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
