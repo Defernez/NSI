@@ -1,10 +1,6 @@
 # SNT 2023 2024
 
-
-## DS le 7 Février sur internet et le web
-à revoir: https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Fiche_de_revision_sur_Internet.pdf avec ça : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_r_303_251vision_sur_le_WEB.pdf et ça : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Fiche_de_revision_SNT__le_HTML.pdf"
-
-## DNS sur les moteurs de recherche
+## 13/02 DNS sur les moteurs de recherche
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
  
 <h1><mark>Cours et activités de snt</mark></h1>
@@ -12,11 +8,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
 
 <img src = "https://cdn.futura-sciences.com/sources/images/Clic2Load/julien/les_meilleurs_logiciels_de_creation_de_site_web/logiciels.jpg" width = "300" />
 
-<br>
-```
-Attention, le DS arrive sur HTML et le WEB 
-```
-<br><br><br>
+
 <b><mark>TD Jupyter notebook: WEB </b></mark><br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Internet.ipynb <br>
@@ -45,6 +37,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Inter
 (16/01 et 17/01 et aussi le 24/01) Mise en ligne de vos sites web et préparation de l'oral
 (30/01) Oral au CDI
 (31/01) Prof abs
+(07/02) DS le web et internet
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
