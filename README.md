@@ -1,4 +1,4 @@
-# SNT 2023 2024
+# SNT 2023 2024  NOUVEAU CHAPITRE :  Les réseaux sociaux 
 
 ## 13/02 DNS sur les moteurs de recherche
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
