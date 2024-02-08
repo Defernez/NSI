@@ -6,7 +6,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
 
-<img src = "https://cdn.futura-sciences.com/sources/images/Clic2Load/julien/les_meilleurs_logiciels_de_creation_de_site_web/logiciels.jpg" width = "300" />
+<img src = "https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180" width = "300" />
 
 
 <b><mark>TD Jupyter notebook: Les réseaux sociaux </b></mark><br>
