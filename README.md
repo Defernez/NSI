@@ -30,14 +30,14 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_
 (28/11) 2 heures sur le projet WEB <br>
 (29/11) Fin du chapitre 2 <br>
 (5/12 et 6/12) Début du chapitre 3: internet ! <br>
-(13/12) IE sur les données 
-(19/12) Internet, plus vos sites web 
-(20/12) Vos sites web 
-(10/01) Petit dej spécial préparation des sites web
-(16/01 et 17/01 et aussi le 24/01) Mise en ligne de vos sites web et préparation de l'oral
-(30/01) Oral au CDI
-(31/01) Prof abs
-(07/02) DS le web et internet
+(13/12) IE sur les données  <br>
+(19/12) Internet, plus vos sites web  <br>
+(20/12) Vos sites web  <br>
+(10/01) Petit dej spécial préparation des sites web <br>
+(16/01 et 17/01 et aussi le 24/01) Mise en ligne de vos sites web et préparation de l'oral <br>
+(30/01) Oral au CDI <br>
+(31/01) Prof abs <br>
+(07/02) DS le web et internet <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
