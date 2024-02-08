@@ -9,7 +9,8 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
 <img src = "https://cdn.futura-sciences.com/sources/images/Clic2Load/julien/les_meilleurs_logiciels_de_creation_de_site_web/logiciels.jpg" width = "300" />
 
 
-<b><mark>TD Jupyter notebook: WEB </b></mark><br>
+<b><mark>TD Jupyter notebook: Les réseaux sociaux </b></mark><br>
+https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_SNT_Les_reseaux_sociaux.ipynb
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/Chapitre3_SNT_Internet.ipynb <br>
 <br>
