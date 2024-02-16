@@ -1,7 +1,6 @@
-# SNT 2023 2024  NOUVEAU CHAPITRE :  Les réseaux sociaux 
+# SNT 2023 2024  NOUVEAUX CHAPITRES :  Les réseaux sociaux, La photographie numerique
+<i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 
-## 13/02 DNS sur les moteurs de recherche
-https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
@@ -38,16 +37,17 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_
 (30/01) Oral au CDI <br>
 (31/01) Prof abs <br>
 (07/02) DS le web et internet <br>
+(13/02 - 14/02) TD Les réseaux sociaux  <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
 
-<i>Prochain theme -> La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
+<i>Prochain theme -> Localisation cartographie mobilite </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieMobilite/Chapitre7_SNT_Localisation_cartographie_mobilite.ipynb
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 <br> 
 
-<i>`Le TD sur le WEB est à faire après vos sites</i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Chapitre4_WEB.ipynb
+
 
 <br>
 Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid143713/snt-bac-2021.html
@@ -64,6 +64,9 @@ https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 <br><b>le DM des vacances à rendre le 7 novembre, c'était </b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br> correction du chapitre 1 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
 <br> correction du chapitre 2 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud_correction.ipynb
+<i>`Le TD sur le WEB est à faire après vos sites</i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Chapitre4_WEB.ipynb
+## 13/02 DNS sur les moteurs de recherche
+https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
 <br><br><br><br><br><br>
 
 
