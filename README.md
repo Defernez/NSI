@@ -38,6 +38,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_
 (31/01) Prof abs <br>
 (07/02) DS le web et internet <br>
 (13/02 - 14/02) TD Les réseaux sociaux  <br>
+(21/02) La photo numérique <br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
