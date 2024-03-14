@@ -1,4 +1,5 @@
-# SNT 2023 2024  NOUVEAUX CHAPITRES :  Les réseaux sociaux, La photographie numerique (QCM photo num pronote le 13 mars)
+# SNT 2023 2024  NOUVEAUX CHAPITRES :  Les réseaux sociaux, La photographie numerique, Localisation cartographie mobilite
+# (à venir, l'oral de présentation de votre affiche et le DS)
 <i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 
  
