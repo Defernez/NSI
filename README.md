@@ -8,8 +8,8 @@
 <img src = "https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180" width = "300" />
 
 
-<b><mark>TD Jupyter notebook: Les réseaux sociaux </b></mark><br>
-https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_SNT_Les_reseaux_sociaux.ipynb <br>
+<b><mark>Localisation cartographie mobilite </b></mark><br>
+https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieMobilite/Chapitre7_SNT_Localisation_cartographie_mobilite.ipynb  <br>
 <b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
 
 
@@ -46,7 +46,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
 
-<i>Prochain theme -> Localisation cartographie mobilite </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieMobilite/Chapitre7_SNT_Localisation_cartographie_mobilite.ipynb
+<i>Prochain theme -> TP sur PIL (photo) à faire  </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/TP_6_Photo%20num%C3%A9rique.ipynb
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 <br> 
