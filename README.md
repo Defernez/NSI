@@ -39,7 +39,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LesReseauxSociaux/Chapitre5_
 (07/02) DS le web et internet <br>
 (13/02 - 14/02) TD Les réseaux sociaux  <br>
 (21/02) La photo numérique <br>
-
+(12/03 13/03) QCM photo et TDn°7
 <img src="http://travail.nsi.free.fr/snt/affiches/CYBERHARCELEMENT.png" />
 <img src="http://travail.nsi.free.fr/snt/affiches/afficheMC.jpg" />
 
