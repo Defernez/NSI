@@ -1,7 +1,7 @@
 # SNT 2023 2024  NOUVEAUX CHAPITRES :  Les réseaux sociaux, La photographie numerique, Localisation cartographie mobilite
 # (à venir, l'oral de présentation de votre affiche et le DS)
 <i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
-
+<br><b><i>DNS: </i></b> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/DNSphotoSNT.pdf
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
