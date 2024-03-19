@@ -74,6 +74,6 @@ https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
 <br><br><br><br><br><br>
 
-https://82.66.66.87:1002/index.html
+https://coursnsi.freeboxos.fr
 
 ![img](https://bergson.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/7/2021/01/NSI-et-autres-sp%C3%A9.jpg)
