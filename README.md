@@ -1,5 +1,5 @@
 # SNT 2023 2024  NOUVEAUX CHAPITRES :  Les réseaux sociaux, La photographie numerique, Localisation cartographie mobilite
-# (à venir, l'oral de présentation de votre affiche et le DS)
+# (Oral de présentation de votre affiche le 9 avril et le DS le 3 avril)
 <i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 <br><b><i>DNS: </i></b> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/DNSphotoSNT.pdf
  
@@ -41,6 +41,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieM
 (13/02 - 14/02) TD Les réseaux sociaux  <br>
 (21/02) La photo numérique <br>
 (12/03 13/03) QCM photo et TDn°7
+(20/03) TD 7 Localisation, cartographie et mobilité
 <img src="http://travail.nsi.free.fr/snt/affiches/CYBERHARCELEMENT.png" />
 <img src="http://travail.nsi.free.fr/snt/affiches/afficheMC.jpg" />
 
