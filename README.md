@@ -42,6 +42,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieM
 (21/02) La photo numérique <br>
 (12/03 13/03) QCM photo et TDn°7
 (20/03) TD 7 Localisation, cartographie et mobilité
+(26/03 27/03) TD 7 Localisation, cartographie et mobilité  TP6 Photo
 <img src="http://travail.nsi.free.fr/snt/affiches/CYBERHARCELEMENT.png" />
 <img src="http://travail.nsi.free.fr/snt/affiches/afficheMC.jpg" />
 
