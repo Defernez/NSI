@@ -42,6 +42,7 @@
 (3/04) DS Les réseaux sociaux, La photographie numerique, Localisation cartographie mobilite <br>
 (9/04) Oral au CDI <br>
 (10/04) TD photo numérique
+(17/04) TD photo numérique
 
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
