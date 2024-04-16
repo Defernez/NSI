@@ -1,5 +1,5 @@
 # SNT 2023 2024  à terminer :  17/04 Dernière séance sur le TD 6 Photo numérique
-# Si vous avez terminés, faites le travail (noté) des vacances
+# Si vous avez terminé, faites le travail (noté) des vacances
 <i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 <br><b><i>DNS: </i></b> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/DNSphotoSNT.pdf
  
