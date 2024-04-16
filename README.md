@@ -9,10 +9,6 @@
 <img src = "https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180" width = "300" />
 
 
-<b><mark>Localisation cartographie mobilite </b></mark><br>
-https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieMobilite/Chapitre7_SNT_Localisation_cartographie_mobilite.ipynb  <br>
-<b><mark>Le travail est à déposer sur travail.nsi.free.fr lorsqu'il est terminé</b></mark><br>
-
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
@@ -46,8 +42,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieM
 (3/04) DS Les réseaux sociaux, La photographie numerique, Localisation cartographie mobilite <br>
 (9/04) Oral au CDI <br>
 (10/04) TD photo numérique
-<img src="http://travail.nsi.free.fr/snt/affiches/CYBERHARCELEMENT.png" />
-<img src="http://travail.nsi.free.fr/snt/affiches/afficheMC.jpg" />
+
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
@@ -65,7 +60,8 @@ Retrouvez le B.O sur le site d’Eduscol : https://eduscol.education.fr/cid14371
 +++
 
 <img src="https://amiga68k.com/wp-content/uploads/2022/05/A500_ws.png" />
-
+<img src="http://travail.nsi.free.fr/snt/affiches/CYBERHARCELEMENT.png" />
+<img src="http://travail.nsi.free.fr/snt/affiches/afficheMC.jpg" />
 <b><i>Vos sites web ICI :</i></b>
 http://travail.nsi.free.fr/snt/depotsites/index.html <br>
 <b><i>Sites "vides" à votre disposition et à compléter :</i></b>
