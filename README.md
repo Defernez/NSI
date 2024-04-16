@@ -52,7 +52,7 @@ https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LocalisationCartographieM
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
 
-<i>Prochain theme -> TP sur PIL (photo) à faire  </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/TP_6_Photo%20num%C3%A9rique.ipynb
+<i>Prochain theme -> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/InformatiqueEmbarqueeEtObjetsConnectes/Chapitre_8_IHM.ipynb
 <br>
 <font color="red"><b>Si vous avez terminé, commencez dès maintenant le prochain TD</b></font>
 <br> 
@@ -71,12 +71,9 @@ http://travail.nsi.free.fr/snt/depotsites/index.html <br>
 <b><i>Sites "vides" à votre disposition et à compléter :</i></b>
 https://github.com/Defernez/NSI/tree/main/%3CSNT%3E/WEB
 
-<br><b>le DM des vacances à rendre le 7 novembre, c'était </b>https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DMvacances_snt.pdf
 <br> correction du chapitre 1 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Python/Chapitre1_SNT_Python_Jupyter_Correction.ipynb
 <br> correction du chapitre 2 : https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/%20LesDonneesStructureesEtLeurTraitement/Chapitre2_SNT_Donnees_et_Cloud_correction.ipynb
-<i>`Le TD sur le WEB est à faire après vos sites</i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/WEB/Chapitre4_WEB.ipynb
-## 13/02 DNS sur les moteurs de recherche
-https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/Internet/DNS_page_rank.pdf
+
 <br><br><br><br><br><br>
 
 https://coursnsi.freeboxos.fr
