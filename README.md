@@ -1,5 +1,4 @@
-# SNT 2023 2024  à terminer :  17/04 Dernière séance sur le TD 6 Photo numérique
-# Si vous avez terminé, faites le travail (noté) des vacances
+# SNT 2023 2024  à terminer :  Dernière chance pour rendre le TP 6 Photo
 <i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 <br><b><i>à faire pendant les vacances: </i></b>  https://capytale2.ac-paris.fr/web/c-auth/list?state=-eyJkZXN0IjoiXC93ZWJcL2NvZGVcLzA1ZTQtMzM5NjYyNCIsInJlZiI6Imh0dHA6XC9cL25vdGVzLmx5Y2VlamVhbnBlcnJpbi5mciJ9
  
