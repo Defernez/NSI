@@ -5,7 +5,7 @@
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
 
-<img src = "[https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180](https://images.altronics.com.au/prod_new/z/Z6439A.jpg)" width = "300" />
+<img src = "https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180" width = "300" />
 
 
 
