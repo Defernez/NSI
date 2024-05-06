@@ -1,11 +1,11 @@
-# SNT 2023 2024  à terminer :  Dernière chance pour rendre le TP 6 Photo
+# SNT 2023 2024  à terminer :  Dernière chance pour rendre le TP 6 Photo et faire le TD 8 IHM
 <i>La Photographie Numerique </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 <br><b><i>à faire pendant les vacances: </i></b>  https://capytale2.ac-paris.fr/web/c-auth/list?state=-eyJkZXN0IjoiXC93ZWJcL2NvZGVcLzA1ZTQtMzM5NjYyNCIsInJlZiI6Imh0dHA6XC9cL25vdGVzLmx5Y2VlamVhbnBlcnJpbi5mciJ9
  
 <h1><mark>Cours et activités de snt</mark></h1>
 <br>Pour rendre vos TP : http://travail.nsi.free.fr/snt/index.html <br>
 
-<img src = "https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180" width = "300" />
+<img src = "[https://tse3.mm.bing.net/th?id=OIP.TA8oejPmTjZHziLE3akM1gHaE8&pid=Api&P=0&h=180](https://images.altronics.com.au/prod_new/z/Z6439A.jpg)" width = "300" />
 
 
 
