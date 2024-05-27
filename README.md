@@ -41,9 +41,13 @@
 (26/03 27/03) TD 7 Localisation, cartographie et mobilité  TP6 Photo <br>
 (3/04) DS Les réseaux sociaux, La photographie numerique, Localisation cartographie mobilite <br>
 (9/04) Oral au CDI <br>
-(10/04) TD photo numérique
-(17/04) TD photo numérique
-(07/05) TD photo numérique - DM - TD8 IHM
+(10/04) TD photo numérique <br>
+(17/04) TD photo numérique <br>
+(07/05) TD photo numérique - DM - TD8 IHM <br>
+(15/05) IE de 10 minutes puis TD IHM <br>
+(21/05) Cours et TD IHM <br>
+(22/05) DS sur IHM <br>
+(29/05) IHM et projet de fin d'année (web) <br><br>
 
 <img src="https://tse3.mm.bing.net/th?id=OIP._YjJVhl-MwJO2d_cEAmuTQHaB2&pid=Api&P=0&h=180" />
 
