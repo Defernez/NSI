@@ -1,5 +1,5 @@
-# SNT 2023 2024  à terminer :  IE de 10 minutes et TD 8 IHM /!\ rendre tout pour Mardi 21 Mai
-# DS le mercredi 22 Mai (Bilan IHM, programmer une carte)
+# SNT 2023 2024 :  Interface Homme-Machine et projet web de fin d'année.
+# PAS DE SNT LE MERCREDI 12 JUIN : ECE DE NSI
 <i>La Photographie Numerique (gros td coef 2) </i><br> https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/LaPhotographieNumerique/Chapitre6_Photo.pdf
 <br><b><i>à faire pendant les vacances: </i></b>  https://capytale2.ac-paris.fr/web/c-auth/list?state=-eyJkZXN0IjoiXC93ZWJcL2NvZGVcLzA1ZTQtMzM5NjYyNCIsInJlZiI6Imh0dHA6XC9cL25vdGVzLmx5Y2VlamVhbnBlcnJpbi5mciJ9
  <br> <b><i> Informatique embarquée (coef 1,5 plus IE coef 2) </b></i>  https://github.com/Defernez/NSI/blob/main/%3CSNT%3E/InformatiqueEmbarqueeEtObjetsConnectes/Chapitre_8_IHM.ipynb <br>
